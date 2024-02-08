@@ -1,5 +1,5 @@
 using System.Text;
-using GJApples.Data;
+using GJApples_API_TEST.Data;
 using GJApples_API_TEST.Models;
 using GJApples_API_TEST.Models.DTOs;
 using Microsoft.AspNetCore.Authorization;

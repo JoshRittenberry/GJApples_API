@@ -7,7 +7,7 @@ using System.Security.Claims;
 using System.Text;
 using GJApples_API_TEST.Models;
 using GJApples_API_TEST.Models.DTOs;
-using GJApples.Data;
+using GJApples_API_TEST.Data;
 
 namespace GJApples_API_TEST.Controllers;
 
