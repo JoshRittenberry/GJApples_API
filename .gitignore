@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/GJApples_API-TEST.sln
+/GJApples_API-TEST/appsettings.json
