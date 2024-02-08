@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using GJApples_API_TEST.Models;
 using Microsoft.AspNetCore.Identity;
 
-namespace GJApples.Data;
+namespace GJApples_API_TEST.Data;
 
 public class GJApplesDbContext : IdentityDbContext<IdentityUser>
 {
